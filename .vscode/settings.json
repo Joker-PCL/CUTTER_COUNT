@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "ui.h": "c",
+        "cmath": "cpp",
+        "chrono": "cpp"
+    },
+    "cmake.sourceDirectory": "D:/Projct_Toey/PlatformIO/Cutter_count/src/ui"
+}
